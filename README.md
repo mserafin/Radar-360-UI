@@ -12,12 +12,11 @@ Software for graphical presentation of data in the browser. Supplementing the [R
 
 
 ## Project Setup
-Do not use ``npm install``. Please run the following command to trigger a Yarn installation of package dependencies.
-
 In the **package.json** file (Radar-360-UI project) for the **"start:radar-server": "node server/index.js 8090 COM6 115200"** task, change the name of the USB serial port to the correct one.
 
 
 ## Start
+Do not use ``npm install``. Please run the following command to trigger a Yarn installation of package dependencies.
 - run ``yarn build:local`` to update dependencies and build appropriate client bundles
 - run ``yarn start`` to start the radar-server and the webpack dev server
 - go to [http://localhost:8080](http://localhost:8080)
