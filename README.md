@@ -4,6 +4,8 @@ Radar-360-UI
 An application written in JavaScript using ES6 and the [p5.js](https://p5js.org/) library.
 Software for graphical presentation of data in the browser. Supplementing the [Radar-360-Server](https://github.com/mserafin/Radar-360-Server) project with a presentation layer. It uses socket.io to communicate with the server in real time.
 
+- [Link to the video part one](https://youtu.be/Co4pfJTjldk)
+- [Link to the video part two](https://youtu.be/lTkQq5pIROM)
 
 ## Initial Setup
 - install the current Node.js LTS version if not already installed
