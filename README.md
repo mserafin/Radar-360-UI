@@ -10,11 +10,10 @@ Software for graphical presentation of data in the browser. Supplementing the [R
 ## Initial Setup
 - install the current Node.js LTS version if not already installed
 - go to the project directory
-- create the **server** directory and download the [Radar-360-Server](https://github.com/mserafin/Radar-360-Server) in it
 
 
 ## Project Setup
-In the **package.json** file (Radar-360-UI project) for the **"start:radar-server": "node server/index.js 8090 COM6 115200"** task, change the name of the USB serial port to the correct one.
+In the **package.json** file (Radar-360-UI project) for the **start:radar-server** task, change the name of the USB serial port to the correct one.
 
 
 ## Start
